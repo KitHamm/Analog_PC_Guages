@@ -1,0 +1,5 @@
+psutil
+GPUtil
+pystray
+pillow
+pyserial
